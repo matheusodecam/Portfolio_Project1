@@ -30,7 +30,7 @@ class MyDrawer extends StatelessWidget {
                   height: 3,
                 ),
                 Text(
-                  'Versao 1.0',
+                  'Versao 1.2',
                   style: TextStyle(color: Colors.white54, fontSize: 12),
                 ),
                 SizedBox(

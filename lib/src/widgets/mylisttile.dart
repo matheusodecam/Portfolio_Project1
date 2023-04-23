@@ -45,7 +45,7 @@ class _MyListTileState extends State<MyListTile> {
                         ),
                       ),
                       Text(
-                        widget.usuario.email!,
+                        widget.usuario.email,
                         style: TextStyle(
                           fontSize: 13,
                           color: Colors.black45,

@@ -5,20 +5,18 @@ import 'package:portfolio_project1/src/widgets/myappbar.dart';
 import 'package:portfolio_project1/src/widgets/mybottomappbar.dart';
 import 'package:portfolio_project1/src/widgets/menubox.dart';
 import 'package:portfolio_project1/src/widgets/mydrawer.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
-   
 
   @override
   State<HomePage> createState() => _HomePageState();
 }
 
 class _HomePageState extends State<HomePage> {
-  
-
   @override
   Widget build(BuildContext context) {
     //final screenHeight = MediaQuery.of(context).size.height;
@@ -158,7 +156,7 @@ class _HomePageState extends State<HomePage> {
                             child: Container(
                               child: Center(
                                 child: Text(
-                                  'Acesse o codigo \ndo projeto aqui:',
+                                  'Acesse meu\n\t perfil aqui:',
                                   style: TextStyle(
                                       color: Color.fromARGB(242, 0, 41, 58),
                                       fontSize: 16,
@@ -173,7 +171,7 @@ class _HomePageState extends State<HomePage> {
                                 gradient: LinearGradient(
                                   colors: [
                                     Colors.white,
-                                    Colors.orange,
+                                    Colors.blue,
                                   ],
                                   begin: Alignment.topLeft,
                                   end: Alignment.bottomLeft,
@@ -184,19 +182,30 @@ class _HomePageState extends State<HomePage> {
                                 ),
                                 borderRadius: BorderRadius.circular(20),
                               ),
-                              child: InkWell(
-                                child: Padding(
-                                  padding: EdgeInsets.all(10),
-                                  child: Image.asset(
-                                      'lib/assets/images/github_logo.png'),
+                              child: GestureDetector(
+                                /*onTap: () async {
+                                  const url =
+                                      'https://www.linkedin.com/in/matheusodecam/';
+                                  if (await canLaunch(url)) {
+                                    await launch(url);
+                                  } else {
+                                    throw 'Não foi possível abrir o perfil do LinkedIn.';
+                                  }
+                                },*/
+                                child: InkWell(
+                                  child: Padding(
+                                    padding: EdgeInsets.all(10),
+                                    child: Image.asset(
+                                        'lib/assets/images/linkedin_logo.png'),
+                                  ),
                                 ),
-                                onTap: () {},
                               ),
                             ),
                           ),
                           Expanded(
                             child: Container(
-                              margin: EdgeInsets.only(top: 10,bottom: 5, right: 5, left: 5),
+                              margin: EdgeInsets.only(
+                                  top: 10, bottom: 5, right: 5, left: 5),
                               child: Center(
                                 child: Text(
                                   '\t\t\t\tAo acessar a pagina do \t\tprojeto, no GitHub, o usuário encontrará instruções de uso.',
@@ -209,7 +218,9 @@ class _HomePageState extends State<HomePage> {
                             child: Container(
                               margin: EdgeInsets.only(top: 20),
                               child: Text(
-                                'PROJETO PARA PORTFÓLIO',style: TextStyle(fontSize: 13, fontWeight: FontWeight.bold),
+                                'PROJETO PARA PORTFÓLIO',
+                                style: TextStyle(
+                                    fontSize: 13, fontWeight: FontWeight.bold),
                               ),
                             ),
                           ),

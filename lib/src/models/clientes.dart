@@ -5,7 +5,8 @@ class Clientes {
   final String horario;
   final String avatar;
   final String id;
-  final String? email;
+  final String email;
+  final String username;
 
   const Clientes({
     required this.nome,
@@ -14,6 +15,7 @@ class Clientes {
     required this.horario,
     required this.avatar,
     required this.id,
-    required this.email
+    required this.email,
+    required this.username
   });
 }

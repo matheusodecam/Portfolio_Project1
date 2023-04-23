@@ -13,7 +13,7 @@ mixin ValidationMixin {
 
   String? userValidator(String? user){
     for(int i = 0; i < listaClientes.length; i++){
-      if(user! == listaClientes[i].nome){
+      if(user! == listaClientes[i].username){
         return null;
       } 
     }

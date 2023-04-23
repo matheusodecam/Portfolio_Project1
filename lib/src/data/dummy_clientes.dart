@@ -4,16 +4,18 @@ class DummyClientesLista {
   static List<Clientes> DUMMY_CLIENTS = [
     Clientes(
       id: '1',
+      username: 'matheusmesquita',
       nome: 'Matheus Mesquita',
       senha: '123456',
       servicos: [],
       horario: '',
       avatar:
-          '',
+          'https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_960_720.png',
       email: 'matheusodecam@gmail.com',    
     ),
     Clientes(
       id: '2',
+      username: 'lucasmacedo',
       nome: 'Lucas Macedo',
       senha: '123456',
       servicos: [],
@@ -24,6 +26,7 @@ class DummyClientesLista {
     ),
     Clientes(
       id: '3',
+      username: 'rebeccamacedo',
       nome: 'Rebecca Macedo',
       senha: '123456',
       servicos: [],
@@ -34,6 +37,7 @@ class DummyClientesLista {
     ),
     Clientes(
       id: '4',
+      username: 'hemmersonoliveira',
       nome: 'Hemmerson Oliveira',
       senha: '123456',
       servicos: [],
@@ -44,6 +48,7 @@ class DummyClientesLista {
     ),
     Clientes(
       id: '5',
+      username: 'robertosaulo',
       nome: 'Roberto Saulo',
       senha: '123456',
       servicos: [],
@@ -54,6 +59,7 @@ class DummyClientesLista {
     ),
     Clientes(
       id: '6',
+      username: 'ghymersonamerico',
       nome: 'Ghymerson Américo',
       senha: '123456',
       servicos: [],
@@ -64,6 +70,7 @@ class DummyClientesLista {
     ),
     Clientes(
       id: '7',
+      username: 'rienyfernandes',
       nome: 'Rieny Fernandes',
       senha: '123456',
       servicos: [],
@@ -74,6 +81,7 @@ class DummyClientesLista {
     ),
     Clientes(
       id: '8',
+      username: 'guilhermeaust',
       nome: 'Guilherme Austregésilo',
       senha: '123456',
       servicos: [],
@@ -84,6 +92,7 @@ class DummyClientesLista {
     ),
     Clientes(
       id: '9',
+      username: 'diogolameirao',
       nome: 'Diogo Lameirão',
       senha: '123456',
       servicos: [],
@@ -94,6 +103,7 @@ class DummyClientesLista {
     ),
     Clientes(
       id: '10',
+      username: 'pwdocaldo',
       nome: 'Paulo Wesley',
       senha: '123456',
       servicos: [],
@@ -104,6 +114,7 @@ class DummyClientesLista {
     ),
     Clientes(
       id: '11',
+      username: 'claudiosama',
       nome: 'Claudemir Rodrigues',
       senha: '123456',
       servicos: [],
@@ -114,6 +125,7 @@ class DummyClientesLista {
     ),
     Clientes(
       id: '12',
+      username: 'rbdaguarda',
       nome: 'Junior RB da Guarda',
       senha: '123456',
       servicos: [],
@@ -124,6 +136,7 @@ class DummyClientesLista {
     ),
     Clientes(
       id: '13',
+      username: 'meirilene',
       nome: 'Meirilene Oliveira',
       senha: '123456',
       servicos: [],
@@ -134,6 +147,7 @@ class DummyClientesLista {
     ),
     Clientes(
       id: '14',
+      username: 'iarleyflamengo',
       nome: 'Iarley Torres',
       senha: '123456',
       servicos: [],
@@ -144,6 +158,7 @@ class DummyClientesLista {
     ),
     Clientes(
       id: '15',
+      username: 'ingrydpalmeiras',
       nome: 'Ingryd Lohane',
       senha: '123456',
       servicos: [],
@@ -154,6 +169,7 @@ class DummyClientesLista {
     ),
     Clientes(
       id: '16',
+      username: 'isabellecompizza',
       nome: 'Isabelle Mesquita',
       senha: '123456',
       servicos: [],
@@ -164,6 +180,7 @@ class DummyClientesLista {
     ),
     Clientes(
       id: '17',
+      username: 'lucasgerasol',
       nome: 'Lucas Rodrigues',
       senha: '123456',
       servicos: [],
