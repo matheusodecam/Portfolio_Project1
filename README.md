@@ -58,7 +58,7 @@ Caso queira implementar isso no seu ambiente, aqui estão ferramentas que utiliz
 
 ## Authors
 
-* **Matheus Mesquita** - *Initial work* - [PurpleBooth](https://github.com/matheusodecam)
+* **Matheus Mesquita** - *Initial work* - [LinkdIn](https://www.linkedin.com/in/matheusodecam/)
 
 ## License
 
