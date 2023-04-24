@@ -64,8 +64,12 @@ Caso queira implementar isso no seu ambiente, aqui estão ferramentas que utiliz
 
 Este projeto está licenciado sob a Licença MIT  - Clique em [LICENSE.md](https://github.com/matheusodecam/Portfolio_Project1/blob/main/LICENSE) para obter mais detalhes
 
-## Acknowledgments
+## Pontos de melhoria e estudo
+O que esperar das próximas atualizações:
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Interação com banco de dados;
+* Login com Google e Facebook;
+* Melhorias UI/UX;
+* Agenda e calendário;
+* Serviços;
+* Interação com API;
