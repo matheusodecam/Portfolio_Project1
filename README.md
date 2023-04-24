@@ -1,6 +1,6 @@
 # Portfólio - Project 1
 
-Este apicativo possui algumas funcionalidades importantes. As principais são:
+Este aplicativo possui algumas funcionalidades importantes. As principais são:
 ```
 - Icone;
 - Tela Splash;
