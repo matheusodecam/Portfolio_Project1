@@ -1,6 +1,14 @@
-# Project Title
+# Portfólio - Project 1
 
-One Paragraph of project description goes here
+Este apicativo possui algumas funcionalidades importantes. As principais são:
+```
+- Icone;
+- Tela Splash;
+- Tela de login;
+- Validação de Formulário (Incluindo nome de usúario e senha);
+- TO DO List;
+- Provider;
+```
 
 ## Getting Started
 
