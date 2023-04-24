@@ -32,6 +32,9 @@ O que você precisará para instalar o apk no seu dispositivo:
 
 ### Instruções de uso para esta versão
 
+.
+
+
 ##Icone e Tela Splash
 
 ##Tela de login e validação de formulário
