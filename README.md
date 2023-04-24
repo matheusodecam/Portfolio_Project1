@@ -14,35 +14,25 @@ Este apicativo possui algumas funcionalidades importantes. As principais são:
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### Pré-requisitos
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+O que você precisará para instalar o apk no seu dispositivo:
+  - As recomendações abaixo são de acordo com as ferramentas utilizadas para o desenvolvimento.
 
 ```
-Give the example
+- Emulador Android - Recomendo o Android Studio;
+- Emulador iOS - Recomendo a extensão do VScode (Android iOS Emulator);
+- Celular;
 ```
 
-And repeat
+### Instalação
 
-```
-until finished
-```
+[O download do APK pode ser feito por esse link:](https://github.com/matheusodecam/Portfolio_Project1/blob/main/build/app/outputs/flutter-apk/app-release.apk) 
 
-End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+## Instruções de uso para esta versão
 
-Explain how to run the automated tests for this system
+
 
 ### Break down into end to end tests
 
