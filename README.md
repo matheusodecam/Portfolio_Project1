@@ -10,9 +10,9 @@ Este apicativo possui algumas funcionalidades importantes. As principais são:
 - Provider;
 ```
 
-## Getting Started
+## Vamos começar
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Abaixo você encontrará o link para instalação do APK teste, apresentação dos modelos de tela, algumas recomendações, entre outras informações
 
 ### Pré-requisitos
 
@@ -20,18 +20,27 @@ O que você precisará para instalar o apk no seu dispositivo:
   - As recomendações abaixo são de acordo com as ferramentas utilizadas para o desenvolvimento.
 
 ```
-- Emulador Android - Recomendo o Android Studio;
-- Emulador iOS - Recomendo a extensão do VScode (Android iOS Emulator);
+- Emulador Android: Recomendo o Android Studio;
+- Emulador iOS: Recomendo a extensão do VScode(Android iOS Emulator);
 - Celular;
 ```
 
 ### Instalação
 
-[O download do APK pode ser feito por esse link:](https://github.com/matheusodecam/Portfolio_Project1/blob/main/build/app/outputs/flutter-apk/app-release.apk) 
+[Link APK](https://github.com/matheusodecam/Portfolio_Project1/blob/main/build/app/outputs/flutter-apk/app-release.apk) 
 
 
 ## Instruções de uso para esta versão
 
+#Icone e Tela Splash
+
+#Tela de login e validação de formulário
+
+#Drawer
+
+#TO DO list
+
+#Demonstração do Provider com tela de favoritos e usuário deletado
 
 
 ### Break down into end to end tests
