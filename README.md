@@ -56,9 +56,9 @@ Caso queira implementar isso no seu ambiente, aqui estão ferramentas que utiliz
 * [VSCode](https://code.visualstudio.com/download) - A IDE utilizada
 * [AndroidStuido](https://developer.android.com/studio) - Emulador utilizado
 
-## Authors
+## Autores
 
-* **Matheus Mesquita** - *Initial work* - [LinkdIn](https://www.linkedin.com/in/matheusodecam/)
+* **Matheus Mesquita** - *Trabalho Inicial* - [LinkdIn](https://www.linkedin.com/in/matheusodecam/)
 
 ## License
 
