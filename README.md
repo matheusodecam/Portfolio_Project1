@@ -34,13 +34,16 @@ O que você precisará para instalar o apk no seu dispositivo:
 
 
 - **Icone e Tela Splash**
- <img src="https://github.com/matheusodecam/COMANDOS-GIT/blob/master/gifs/icone-telasplash.gif" width="300">
+<img src="https://github.com/matheusodecam/COMANDOS-GIT/blob/master/gifs/icone-telasplash.gif" width="200">
 
 - **Tela de login e validação de formulário**
+<img src="https://github.com/matheusodecam/COMANDOS-GIT/blob/master/gifs/icone-telasplash.gif" width="200">
 - **Drawer**
+<img src="https://github.com/matheusodecam/COMANDOS-GIT/blob/master/gifs/icone-telasplash.gif" width="200">
 - **TO DO list**
+<img src="https://github.com/matheusodecam/COMANDOS-GIT/blob/master/gifs/icone-telasplash.gif" width="200">
 - **Demonstração do Provider com tela de favoritos e usuário deletado**
-
+<img src="https://github.com/matheusodecam/COMANDOS-GIT/blob/master/gifs/icone-telasplash.gif" width="200">
 
 
 
