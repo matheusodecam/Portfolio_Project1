@@ -45,6 +45,7 @@ O que você precisará para instalar o apk no seu dispositivo:
 - **TO DO list + Demonstração do Provider com tela de favoritos e usuário deletado**
 <img src="https://github.com/matheusodecam/COMANDOS-GIT/blob/master/gifs/lista.gif" width="200">
 
+-**Para iniciar o teste do aplicativo, o usuário pode inserir em 'Nome de usuário': "matheusmesquita" e em 'Senha': "123456". Ainda sim, ao entrar na lista de Clientes, terá acesso aos usuários cadastrados previamente. A senha de todos eles é: "123456"**
 
 ### Break down into end to end tests
 
