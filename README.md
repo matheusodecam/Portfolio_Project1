@@ -37,14 +37,11 @@ O que você precisará para instalar o apk no seu dispositivo:
 <img src="https://github.com/matheusodecam/COMANDOS-GIT/blob/master/gifs/icone-telasplash.gif" width="200">
 
 - **Tela de login e validação de formulário**
-<img src="https://github.com/matheusodecam/COMANDOS-GIT/blob/master/gifs/icone-telasplash.gif" width="200">
+<img src="https://github.com/matheusodecam/COMANDOS-GIT/blob/master/gifs/formulario.gif" width="200">
 - **Drawer**
-<img src="https://github.com/matheusodecam/COMANDOS-GIT/blob/master/gifs/icone-telasplash.gif" width="200">
-- **TO DO list**
-<img src="https://github.com/matheusodecam/COMANDOS-GIT/blob/master/gifs/icone-telasplash.gif" width="200">
-- **Demonstração do Provider com tela de favoritos e usuário deletado**
-<img src="https://github.com/matheusodecam/COMANDOS-GIT/blob/master/gifs/icone-telasplash.gif" width="200">
-
+<img src="https://github.com/matheusodecam/COMANDOS-GIT/blob/master/gifs/drawer.gif" width="200">
+- **TO DO list + Demonstração do Provider com tela de favoritos e usuário deletado**
+<img src="https://github.com/matheusodecam/COMANDOS-GIT/blob/master/gifs/lista.gif" width="200">
 
 
 ### Break down into end to end tests
