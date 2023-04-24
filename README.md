@@ -60,9 +60,9 @@ Caso queira implementar isso no seu ambiente, aqui estão ferramentas que utiliz
 
 * **Matheus Mesquita** - *Trabalho Inicial* - [LinkdIn](https://www.linkedin.com/in/matheusodecam/)
 
-## License
+## Licença
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Este projeto possui licença MIT - Clique em [LICENSE.md](https://github.com/matheusodecam/Portfolio_Project1/blob/main/LICENSE) para detalhes
 
 ## Acknowledgments
 
