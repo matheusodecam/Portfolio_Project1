@@ -34,22 +34,12 @@ O que você precisará para instalar o apk no seu dispositivo:
 
 .
 
-
-```
 - **Icone e Tela Splash**
-```
-```
 - **Tela de login e validação de formulário**
-```
-```
 - **Drawer**
-```
-```
 - **TO DO list**
-```
-```
 - **Demonstração do Provider com tela de favoritos e usuário deletado**
-```
+
 
 
 
