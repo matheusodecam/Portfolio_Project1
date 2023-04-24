@@ -34,6 +34,7 @@ O que você precisará para instalar o apk no seu dispositivo:
 
 
 - **Icone e Tela Splash**
+- <img src="https://github.com/matheusodecam/COMANDOS-GIT/blob/master/gifs/icone-telasplash.gif" width="300">
 ![Icone e Tela Splash](https://github.com/matheusodecam/COMANDOS-GIT/blob/master/gifs/icone-telasplash.gif)
 - **Tela de login e validação de formulário**
 - **Drawer**
