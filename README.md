@@ -62,7 +62,7 @@ Caso queira implementar isso no seu ambiente, aqui estão ferramentas que utiliz
 
 ## Licença
 
-Este projeto possui licença MIT - Clique em [LICENSE.md](https://github.com/matheusodecam/Portfolio_Project1/blob/main/LICENSE) para detalhes
+Este projeto está licenciado sob a Licença MIT  - Clique em [LICENSE.md](https://github.com/matheusodecam/Portfolio_Project1/blob/main/LICENSE) para obter mais detalhes
 
 ## Acknowledgments
 
