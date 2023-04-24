@@ -30,15 +30,15 @@ O que você precisará para instalar o apk no seu dispositivo:
 [Link APK](https://github.com/matheusodecam/Portfolio_Project1/blob/main/build/app/outputs/flutter-apk/app-release.apk) 
 
 
-## Instruções de uso para esta versão
+### Instruções de uso para esta versão
 
-#Icone e Tela Splash
+##Icone e Tela Splash
 
-#Tela de login e validação de formulário
+##Tela de login e validação de formulário
 
-#Drawer
+##Drawer
 
-#TO DO list
+##TO DO list
 
 #Demonstração do Provider com tela de favoritos e usuário deletado
 
