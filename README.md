@@ -34,7 +34,7 @@ O que você precisará para instalar o apk no seu dispositivo:
 
 
 - **Icone e Tela Splash**
-![texto](https://drive.google.com/drive/u/0/folders/1x-Zv6rIwDl-XCc2c_kY9QcmTqCfml2EU)
+![]([https://drive.google.com/drive/u/0/folders/1x-Zv6rIwDl-XCc2c_kY9QcmTqCfml2EU](https://github.com/matheusodecam/COMANDOS-GIT/blob/master/gifs/icone-telasplash.gif))
 - **Tela de login e validação de formulário**
 - **Drawer**
 - **TO DO list**
