@@ -1,4 +1,4 @@
-# Portfólio - Project 1
+# Clinica Ondontologica
 
 Este aplicativo possui algumas funcionalidades importantes. As principais são:
 ```
